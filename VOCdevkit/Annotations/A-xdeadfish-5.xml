@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>z28778566Q-Sniete-ryby-w-Odrze--zdjecie-ilustracyjne-_jpg.rf.9c312101a66cfe7eb57ab409b3b874e6.jpg</filename>
+	<path>z28778566Q-Sniete-ryby-w-Odrze--zdjecie-ilustracyjne-_jpg.rf.9c312101a66cfe7eb57ab409b3b874e6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>292</xmax>
+			<ymin>147</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>177</xmin>
+			<xmax>356</xmax>
+			<ymin>253</ymin>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder />
+	<filename>IMG_0244_JPG.rf.6535614370306f94aae3fb7177c5e23a.jpg</filename>
+	<path>IMG_0244_JPG.rf.6535614370306f94aae3fb7177c5e23a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>302</xmin>
+			<xmax>388</xmax>
+			<ymin>249</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	</annotation>

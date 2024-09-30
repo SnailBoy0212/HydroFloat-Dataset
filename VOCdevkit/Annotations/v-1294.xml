@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder />
+	<filename>marine-debris-148-_jpg.rf.a98d6bf25e975939426ada2d3d88065f.jpg</filename>
+	<path>marine-debris-148-_jpg.rf.a98d6bf25e975939426ada2d3d88065f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>380</xmin>
+			<xmax>447</xmax>
+			<ymin>189</ymin>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>337</xmax>
+			<ymin>296</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>VID_20230708_192743_23_jpg.rf.3f86d75d2bab6dcea8cb04ad30388465.jpg</filename>
+	<path>G:\Desktop\08072023.v1i.voc\train\VID_20230708_192743_23_jpg.rf.3f86d75d2bab6dcea8cb04ad30388465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>780</ymin>
+			<xmax>345</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>527</ymin>
+			<xmax>262</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>foam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>765</ymin>
+			<xmax>460</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>

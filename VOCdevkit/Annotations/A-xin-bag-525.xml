@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>VID_20230708_193024_5_jpg.rf.6ef1d51e386f442da75956d84143e1d2.jpg</filename>
+	<path>G:\Desktop\08072023.v1i.voc\train\VID_20230708_193024_5_jpg.rf.6ef1d51e386f442da75956d84143e1d2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1240</xmin>
+			<ymin>274</ymin>
+			<xmax>1286</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>310</ymin>
+			<xmax>1241</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1653</xmin>
+			<ymin>585</ymin>
+			<xmax>1831</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>foam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1419</xmin>
+			<ymin>763</ymin>
+			<xmax>1578</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>

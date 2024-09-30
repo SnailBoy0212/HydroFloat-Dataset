@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>water-hyacinth-12.jpg</filename>
+	<path>G:\Desktop\WH Detection.v12-approved-augmented-dataset.voc\train\water-hyacinth-12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water-hyacinth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>219</ymin>
+			<xmax>414</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

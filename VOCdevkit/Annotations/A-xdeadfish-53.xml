@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Dead-fish-at-Swanshurst-Park-4-2106160493_jpg.rf.f005998543145cd3b1b1d8de5ca88e41.jpg</filename>
+	<path>G:\Desktop\ryby.v1-ryby.voc\train\Dead-fish-at-Swanshurst-Park-4-2106160493_jpg.rf.f005998543145cd3b1b1d8de5ca88e41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>20</ymin>
+			<xmax>416</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

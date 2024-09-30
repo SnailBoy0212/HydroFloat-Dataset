@@ -1,0 +1,53 @@
+<annotation>
+	<folder />
+	<filename>Ryby-1_jpg.rf.09a3fe1743642a12832402921a907e88.jpg</filename>
+	<path>Ryby-1_jpg.rf.09a3fe1743642a12832402921a907e88.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>161</xmax>
+			<ymin>28</ymin>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>97</xmax>
+			<ymin>306</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>195</xmin>
+			<xmax>403</xmax>
+			<ymin>97</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

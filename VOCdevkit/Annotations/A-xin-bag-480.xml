@@ -1,0 +1,105 @@
+<annotation>
+	<folder />
+	<filename>IMG_9620_JPG.rf.750c9caec81f04da5dfcf35d49943f2d.jpg</filename>
+	<path>IMG_9620_JPG.rf.750c9caec81f04da5dfcf35d49943f2d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2519</xmin>
+			<xmax>2662</xmax>
+			<ymin>1554</ymin>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1654</xmin>
+			<xmax>1929</xmax>
+			<ymin>1361</ymin>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1909</xmin>
+			<xmax>2248</xmax>
+			<ymin>1394</ymin>
+			<ymax>1480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3054</xmin>
+			<xmax>3200</xmax>
+			<ymin>2139</ymin>
+			<ymax>2385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2986</xmin>
+			<xmax>3255</xmax>
+			<ymin>1599</ymin>
+			<ymax>1739</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2696</xmin>
+			<xmax>3060</xmax>
+			<ymin>1444</ymin>
+			<ymax>1628</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3624</xmin>
+			<xmax>3913</xmax>
+			<ymin>595</ymin>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+	</annotation>

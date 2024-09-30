@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>VID_20230708_192743_9_jpg.rf.e8174e15a24e620bfc8f43a9f5e1911f.jpg</filename>
+	<path>G:\Desktop\08072023.v1i.voc\train\VID_20230708_192743_9_jpg.rf.e8174e15a24e620bfc8f43a9f5e1911f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>513</ymin>
+			<xmax>269</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>foam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>871</ymin>
+			<xmax>1229</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+</annotation>

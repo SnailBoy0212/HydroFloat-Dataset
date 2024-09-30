@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>deceased fish--179-_jpg.rf.79acff1138c3e221c7621ac550a1cd62.jpg</filename>
+	<path>deceased fish--179-_jpg.rf.79acff1138c3e221c7621ac550a1cd62.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>362</xmax>
+			<ymin>251</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

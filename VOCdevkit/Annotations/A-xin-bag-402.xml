@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20230708_190021_jpg.rf.074000196d808bcfabf73b0b9e556e0e.jpg</filename>
+	<path>G:\Desktop\08072023.v1i.voc\train\IMG_20230708_190021_jpg.rf.074000196d808bcfabf73b0b9e556e0e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4640</width>
+		<height>3472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2791</xmin>
+			<ymin>47</ymin>
+			<xmax>3591</xmax>
+			<ymax>2583</ymax>
+		</bndbox>
+	</object>
+</annotation>

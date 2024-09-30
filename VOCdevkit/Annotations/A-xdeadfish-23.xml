@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>62fa2cafdf111_o_medium_jpg.rf.2693a9f15adf54de4dfc93eabe4441f2.jpg</filename>
+	<path>G:\Desktop\ryby.v1-ryby.voc\train\62fa2cafdf111_o_medium_jpg.rf.2693a9f15adf54de4dfc93eabe4441f2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>199</ymin>
+			<xmax>416</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>7</ymin>
+			<xmax>251</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

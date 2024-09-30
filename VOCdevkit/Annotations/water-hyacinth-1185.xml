@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>159_jpg.rf.a02b6ea5f3d6fef96132379c6ce9605c.jpg</filename>
+	<path>159_jpg.rf.a02b6ea5f3d6fef96132379c6ce9605c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water-hyacinth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>270</xmin>
+			<xmax>463</xmax>
+			<ymin>275</ymin>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	</annotation>

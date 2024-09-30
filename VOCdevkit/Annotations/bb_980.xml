@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>plastic bottle_resized</folder>
+	<filename>bb_980.jpg</filename>
+	<path>G:\Desktop\annotate\plastic bottle_resized\bb_980.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>335</ymin>
+			<xmax>181</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

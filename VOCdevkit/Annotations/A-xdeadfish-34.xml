@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>csm_martwa-ryba-fot-envato-elements_51effb32d9_jpg.rf.a6b0c077c66b429b39333b64ff22c0e8.jpg</filename>
+	<path>csm_martwa-ryba-fot-envato-elements_51effb32d9_jpg.rf.a6b0c077c66b429b39333b64ff22c0e8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deceased fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>83</xmin>
+			<xmax>307</xmax>
+			<ymin>93</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

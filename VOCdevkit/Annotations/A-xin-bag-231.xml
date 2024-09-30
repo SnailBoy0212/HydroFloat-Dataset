@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>20230708_190252_jpg.rf.176764ff578d0bbb926e831dc97c9249.jpg</filename>
+	<path>20230708_190252_jpg.rf.176764ff578d0bbb926e831dc97c9249.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3315</xmin>
+			<xmax>3544</xmax>
+			<ymin>568</ymin>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1543</xmin>
+			<xmax>2264</xmax>
+			<ymin>877</ymin>
+			<ymax>1213</ymax>
+		</bndbox>
+	</object>
+</annotation>

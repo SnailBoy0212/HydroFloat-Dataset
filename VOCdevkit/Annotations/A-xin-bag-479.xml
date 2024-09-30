@@ -1,0 +1,105 @@
+<annotation>
+	<folder />
+	<filename>IMG_9616_JPG.rf.40320750a369b8c377e680a539945b20.jpg</filename>
+	<path>IMG_9616_JPG.rf.40320750a369b8c377e680a539945b20.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2887</xmin>
+			<xmax>3159</xmax>
+			<ymin>1742</ymin>
+			<ymax>1919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2369</xmin>
+			<xmax>2798</xmax>
+			<ymin>1625</ymin>
+			<ymax>1761</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1321</xmin>
+			<xmax>1717</xmax>
+			<ymin>1482</ymin>
+			<ymax>1609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1786</xmin>
+			<xmax>2208</xmax>
+			<ymin>1291</ymin>
+			<ymax>1424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1700</xmin>
+			<xmax>1957</xmax>
+			<ymin>1242</ymin>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2523</xmin>
+			<xmax>2707</xmax>
+			<ymin>2214</ymin>
+			<ymax>2488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3661</xmin>
+			<xmax>3941</xmax>
+			<ymin>470</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	</annotation>

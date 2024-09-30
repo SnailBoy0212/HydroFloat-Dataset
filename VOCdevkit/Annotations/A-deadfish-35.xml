@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>deceased fish--123-_jpg.rf.6e9a7a71cc7d01566cee81641f1111eb.jpg</filename>
+	<path>deceased fish--123-_jpg.rf.6e9a7a71cc7d01566cee81641f1111eb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

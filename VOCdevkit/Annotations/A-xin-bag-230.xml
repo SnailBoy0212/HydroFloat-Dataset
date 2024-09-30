@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20230708_190252-0-_jpg.rf.f7ec8e294aeca0055c05311007dd981c.jpg</filename>
+	<path>G:\Desktop\08072023.v1i.voc\train\20230708_190252-0-_jpg.rf.f7ec8e294aeca0055c05311007dd981c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1951</xmin>
+			<ymin>876</ymin>
+			<xmax>2703</xmax>
+			<ymax>1225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3780</xmin>
+			<ymin>632</ymin>
+			<xmax>4000</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>
