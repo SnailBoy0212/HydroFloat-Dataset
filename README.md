@@ -29,7 +29,7 @@ This meticulous approach to data collection and curation ensures that the HydroF
 
 ## File Structure
 
-HydroFloat/ │ ├── images/ # Image files │ ├── train/ # Training set images │ ├── test/ # Test set images │ └── val/ # Validation set images └── labels/ # Label files ├── train/ # Training set labels ├── test/ # Test set labels └── val/ # Validation set labels
+HydroFloat/ │ ├── images/ # Image files │ ├── train/ # Training set images │ ├── test/ # Test set images │ └── val/ # Validation set images 
 
 
 ## Usage Example
